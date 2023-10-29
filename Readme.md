@@ -1,0 +1,1 @@
+Esse projeto é uma landing page de apresentação pessoal
